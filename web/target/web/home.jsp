@@ -41,7 +41,7 @@
                             <th>Book</th>
                             <th>Pages</th>
                             <th>ISBN</th>
-                            <th>Genre</th>
+                            <th>Category</th>
                             <th>Borrower</th>
                             <th>Borrower ID</th>
                             <th>Check</th>
@@ -72,9 +72,10 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-12">
-                <a class="btn m-2 btn-success" href="#">Add</a>
+                <a class="btn m-2 btn-success" href="/addBook.jsp">Add</a>
                 <a class="btn m-2 btn-warning" href="#">Edit</a>
                 <a class="btn m-2 btn-danger" href="#">Delete</a>
+                <a class="btn m-2 btn-primary" href="#">Details</a>
             </div>
         </div>
     </div>
